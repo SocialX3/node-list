@@ -1,30 +1,33 @@
 [
 	{
 		"node_id": 1002000000,
-		"name_en": "XXXXXX",
+		"name_en": "educate",
 		"name_cn": "教育",
 		"aliases": "edu",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
 	},
 	{
-		"node_id": 1002000001,
+		"node_id": 1002001000,
 		"name_en": "XXXXXX",
 		"name_cn": "大学",
 		"aliases": "u",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
 	},
 	{
-		"node_id": 1002000002,
+		"node_id": 1002001001,
 		"name_en": "XXXXXX",
 		"name_cn": "北京大学",
 		"aliases": "pku",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

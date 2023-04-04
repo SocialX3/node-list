@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "生活",
 		"aliases": "life",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "二手交易",
 		"aliases": "flea,all4all",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -24,7 +26,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "免费赠送",
 		"aliases": "free",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +37,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "优惠信息",
 		"aliases": "deals",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +48,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "音乐",
 		"aliases": "music",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +59,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "汽车",
 		"aliases": "cars,car",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -64,7 +70,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "电影",
 		"aliases": "movies,movie",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -74,7 +81,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "情感问题",
 		"aliases": "libido",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -84,7 +92,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "物物交换",
 		"aliases": "exchange",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -94,7 +103,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "团购",
 		"aliases": "tuan",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -104,7 +114,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "健康",
 		"aliases": "fit",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -114,7 +125,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "剧集",
 		"aliases": "tv",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -124,7 +136,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "旅行",
 		"aliases": "travel",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -134,7 +147,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "美酒与美食",
 		"aliases": "taste",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -144,7 +158,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "阅读",
 		"aliases": "reading",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -154,7 +169,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "摄影",
 		"aliases": "photograph",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -164,7 +180,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Baby",
 		"aliases": "baby",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -174,7 +191,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "咖啡",
 		"aliases": "coffee",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -184,7 +202,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "生活方式",
 		"aliases": "lifestyle",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -194,7 +213,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "装修",
 		"aliases": "remodel",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -204,7 +224,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "移民",
 		"aliases": "immigration",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -214,7 +235,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "宽带症候群",
 		"aliases": "wifi,bb",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -224,7 +246,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "投资",
 		"aliases": "invest",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -234,7 +257,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "信用卡",
 		"aliases": "creditcard",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -244,7 +268,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "宠物",
 		"aliases": "pet",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -254,7 +279,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "English",
 		"aliases": "en",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -264,7 +290,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "数学",
 		"aliases": "math",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -274,7 +301,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "非诚勿扰",
 		"aliases": "love",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -284,7 +312,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "骑行",
 		"aliases": "bike",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -294,7 +323,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "乐活",
 		"aliases": "lohas",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -304,7 +334,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "中二病",
 		"aliases": "zh2",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -314,7 +345,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "梦",
 		"aliases": "dream",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -324,7 +356,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "海外留学",
 		"aliases": "global",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -334,7 +367,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "5G",
 		"aliases": "5g",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -344,7 +378,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "跑步",
 		"aliases": "running",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -354,7 +389,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "健身",
 		"aliases": "fitness",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -364,7 +400,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "晒晒更健康",
 		"aliases": "show",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -374,7 +411,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "植物",
 		"aliases": "plants,plant",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -384,7 +422,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "签证",
 		"aliases": "visa",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -394,7 +433,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "NBA",
 		"aliases": "nba",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -404,7 +444,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "体育运动",
 		"aliases": "sports",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -414,7 +455,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Tesla",
 		"aliases": "tesla",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -424,7 +466,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "吉他",
 		"aliases": "guitar",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -434,7 +477,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "BMW",
 		"aliases": "bmw",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -444,7 +488,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "穷",
 		"aliases": "cheap",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -454,7 +499,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "户外运动",
 		"aliases": "outdoor",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -464,7 +510,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "围棋",
 		"aliases": "goban",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -474,7 +521,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "时间",
 		"aliases": "time",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -484,7 +532,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Audi",
 		"aliases": "audi",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

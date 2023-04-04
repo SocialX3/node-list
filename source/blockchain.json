@@ -1,0 +1,13 @@
+[
+	{
+		"node_id": 1000000010000000000,
+		"name_en": "BlockChain",
+		"name_cn": "区块链",
+		"aliases": "blockchain",
+		"description_en": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes.",
+		"description_cn": "区块链（blockchain或block chain）是借由密码学与共识机制等技术创建与存储庞大交易资料区块链的点对点网络系统。",
+		"website": "https://en.wikipedia.org/wiki/Blockchain",
+		"twitter": "",
+		"img_url": ""
+	}
+]

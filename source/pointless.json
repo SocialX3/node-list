@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "无要点",
 		"aliases": "pointless",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "水",
 		"aliases": "flood",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -24,7 +26,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "水深火热",
 		"aliases": "flamewar",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +37,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Social",
 		"aliases": "",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +48,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "新手求助",
 		"aliases": "newbie",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +59,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "请不要再发这样的文章",
 		"aliases": "ohno",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

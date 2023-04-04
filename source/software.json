@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "软件",
 		"aliases": "software",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "浏览器",
 		"aliases": "browsers",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -24,7 +26,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "macOS",
 		"aliases": "macosx,osx,macos",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +37,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Linux",
 		"aliases": "linux",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +48,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Windows",
 		"aliases": "windows",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +59,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "FreeBSD",
 		"aliases": "freebsd",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -64,7 +70,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "webOS",
 		"aliases": "webos",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -74,7 +81,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "OpenBSD",
 		"aliases": "openbsd",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -84,7 +92,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "NetBSD",
 		"aliases": "netbsd",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -94,7 +103,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "NixOS",
 		"aliases": "nixos",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -104,7 +114,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Ubuntu",
 		"aliases": "ubuntu",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -114,7 +125,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "VPS",
 		"aliases": "vps",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -124,7 +136,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "shadowsocks",
 		"aliases": "shadowsocks",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -134,7 +147,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "iOS",
 		"aliases": "ios",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -144,7 +158,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "VPN",
 		"aliases": "vpn",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -154,7 +169,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Chrome",
 		"aliases": "chrome",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -164,7 +180,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "NGINX",
 		"aliases": "nginx",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -174,7 +191,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "iCloud",
 		"aliases": "icloud",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -184,7 +202,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "支付宝",
 		"aliases": "alipay",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -194,7 +213,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Firefox",
 		"aliases": "firefox",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -204,7 +224,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "微软",
 		"aliases": "microsoft",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -214,7 +235,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "App Store",
 		"aliases": "appstore",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -224,7 +246,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "淘宝",
 		"aliases": "taobao",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -234,7 +257,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "CentOS",
 		"aliases": "rhel,centos",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -244,7 +268,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "MIUI",
 		"aliases": "miui",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -254,7 +279,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Edge",
 		"aliases": "edge",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -264,7 +290,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "VMware",
 		"aliases": "vmware",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -274,7 +301,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Project Stormwind",
 		"aliases": "stormwind",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -284,7 +312,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": " Pay",
 		"aliases": "pay",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -294,7 +323,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "操作系统",
 		"aliases": "os",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -304,7 +334,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "iTunes",
 		"aliases": "itunes",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -314,7 +345,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Netflix",
 		"aliases": "netflix",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -324,7 +356,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Safari",
 		"aliases": "safari",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -334,7 +367,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Notion",
 		"aliases": "notion",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -344,7 +378,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Microsoft Office",
 		"aliases": "msoffice",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -354,7 +389,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "AlphaGo",
 		"aliases": "alphago",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -364,7 +400,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Debian",
 		"aliases": "debian",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -374,7 +411,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Sketch",
 		"aliases": "sketch",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -384,7 +422,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Flash",
 		"aliases": "flash",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -394,7 +433,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "云修电脑",
 		"aliases": "ifix",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -404,7 +444,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Excel",
 		"aliases": "excel",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -414,7 +455,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Alfred",
 		"aliases": "alfred",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

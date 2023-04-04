@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "游戏",
 		"aliases": "game,games",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Steam",
 		"aliases": "steam",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -24,7 +26,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "英雄联盟",
 		"aliases": "lol",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +37,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Diablo III",
 		"aliases": "d3,diablo,diablo3",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +48,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Minecraft",
 		"aliases": "mc,optifine,minecraft",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +59,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "iGame",
 		"aliases": "igame",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -64,7 +70,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "DOTA",
 		"aliases": "dota",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -74,7 +81,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "StarCraft 2",
 		"aliases": "sc2",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -84,7 +92,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "World of Warcraft",
 		"aliases": "wow",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -94,7 +103,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "王者荣耀",
 		"aliases": "5v5",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -104,7 +114,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Overwatch",
 		"aliases": "overwatch",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -114,7 +125,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Hearthstone",
 		"aliases": "hearthstone",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -124,7 +136,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "EVE",
 		"aliases": "eve",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -134,7 +147,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "精灵宝可梦",
 		"aliases": "pokemon",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -144,7 +158,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "游戏主机",
 		"aliases": "consoles",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -154,7 +169,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Grand Theft Auto",
 		"aliases": "gta",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -164,7 +180,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "赛博朋克 2077",
 		"aliases": "cyberpunk,cyberpunk2077,2077",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -174,7 +191,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "文明系列",
 		"aliases": "civ",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -184,7 +202,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "SimCity",
 		"aliases": "simcity",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -194,7 +213,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Metal Gear Solid",
 		"aliases": "mgs",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -204,7 +224,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "PUBG",
 		"aliases": "pubg",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -214,7 +235,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Call of Duty",
 		"aliases": "cod",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -224,7 +246,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Anno",
 		"aliases": "anno1800,anno",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -234,7 +257,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "上古卷轴 V",
 		"aliases": "skyrim",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -244,7 +268,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Heroes of the Storm",
 		"aliases": "hots,hos",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -254,7 +279,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "DUST 514",
 		"aliases": "dust514",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -264,7 +290,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Guild Wars 2",
 		"aliases": "gw2",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -274,7 +301,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Portal series",
 		"aliases": "portal",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -284,7 +312,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "戴森球计划",
 		"aliases": "dyson",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -294,7 +323,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "最终幻想",
 		"aliases": "ff",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -304,7 +334,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Alienware",
 		"aliases": "alienware",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -314,7 +345,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "微软飞行模拟",
 		"aliases": "flightsim,msfs",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -324,7 +356,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "魂系游戏",
 		"aliases": "eldenring,soulslike",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -334,7 +367,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "阴阳师",
 		"aliases": "onmyoji",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -344,7 +378,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Diablo II",
 		"aliases": "diablo2",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -354,7 +389,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Apex Legends",
 		"aliases": "apex",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -364,7 +400,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Stadia",
 		"aliases": "stadia",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -374,7 +411,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Apple Arcade",
 		"aliases": "applearcade",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -384,7 +422,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "魔兽争霸",
 		"aliases": "warcraft",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -394,7 +433,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "泰拉瑞亚",
 		"aliases": "terraria",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -404,7 +444,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "雷神之锤系列",
 		"aliases": "quake",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -414,7 +455,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "OBS",
 		"aliases": "obs",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -424,7 +466,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "星际争霸",
 		"aliases": "starcraft",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -434,7 +477,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Battlefield 系列",
 		"aliases": "bf",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -444,7 +488,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Need for Speed",
 		"aliases": "nfs",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -454,7 +499,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "生存游戏 Rust",
 		"aliases": "playrust",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -464,7 +510,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Origin",
 		"aliases": "origin",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -474,7 +521,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Besiege",
 		"aliases": "besiege",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -484,7 +532,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "仙剑奇侠传",
 		"aliases": "pal",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -494,7 +543,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "太吾绘卷",
 		"aliases": "taiwu",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -504,7 +554,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Destiny",
 		"aliases": "destiny",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -514,7 +565,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "RAGE",
 		"aliases": "rage",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -524,7 +576,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Battlefield Hardline",
 		"aliases": "bfh",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -534,7 +587,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Wargaming",
 		"aliases": "wargaming",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -544,7 +598,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Resident Evil 5",
 		"aliases": "re5",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -554,7 +609,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Battle for Wesnoth",
 		"aliases": "wesnoth",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -564,7 +620,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "街机游戏",
 		"aliases": "arcade",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -574,7 +631,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "XCOM",
 		"aliases": "xcom",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -584,7 +642,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Fortnite",
 		"aliases": "fortnite",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -594,7 +653,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "GameDB",
 		"aliases": "gamedb",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -604,7 +664,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "AirMech Arena",
 		"aliases": "airmech",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -614,7 +675,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Battlefield 3",
 		"aliases": "bf3",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -624,7 +686,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "怀旧游戏",
 		"aliases": "retro",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -634,7 +697,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "剑灵",
 		"aliases": "bns",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -644,7 +708,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "桌游",
 		"aliases": "boardgame",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -654,7 +719,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "塞尔达传说",
 		"aliases": "zelda",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "酷工作",
 		"aliases": "jobs",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "求职",
 		"aliases": "cv",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -24,7 +26,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "职场话题",
 		"aliases": "career",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +37,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "产品经理茶话会",
 		"aliases": "pm",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +48,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "外包",
 		"aliases": "outsourcing",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +59,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "推广",
 		"aliases": "promotions",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -64,7 +70,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "分享邀请码",
 		"aliases": "in",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -74,7 +81,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "调查",
 		"aliases": "survey",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -84,7 +92,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "反馈",
 		"aliases": "feedback",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -94,7 +103,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "设计师",
 		"aliases": "designer",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -104,7 +114,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "创造者",
 		"aliases": "creator,startup,starter",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -114,7 +125,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "公司运营",
 		"aliases": "inc",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -124,7 +136,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "创业组队",
 		"aliases": "meet",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -134,7 +147,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "远程工作",
 		"aliases": "remote",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -144,7 +158,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "翻译",
 		"aliases": "x",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -154,7 +169,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "Photoshop",
 		"aliases": "photoshop",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -164,7 +180,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "写周报",
 		"aliases": "weekly",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -174,7 +191,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "海外运营",
 		"aliases": "oversea",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""

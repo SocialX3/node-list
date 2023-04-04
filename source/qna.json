@@ -4,7 +4,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "问与答",
 		"aliases": "qna",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -14,7 +15,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "分享发现",
 		"aliases": "share",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -34,7 +36,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "奇思妙想",
 		"aliases": "ideas",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -44,7 +47,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "随想",
 		"aliases": "random",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -54,7 +58,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "设计",
 		"aliases": "design",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -64,7 +69,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "番茄工作法",
 		"aliases": "pomotodo,pomodoro",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -74,7 +80,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "字体排印",
 		"aliases": "typography",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -84,7 +91,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "商业模式",
 		"aliases": "business",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -94,7 +102,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "业界八卦",
 		"aliases": "gossip",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -104,7 +113,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "文学",
 		"aliases": "writing",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -114,7 +124,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "画画",
 		"aliases": "draw",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -124,7 +135,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "糗事分享",
 		"aliases": "fml",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -134,7 +146,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "树洞",
 		"aliases": "treehole",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -144,7 +157,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "科幻",
 		"aliases": "scifi",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -154,7 +168,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "自言自语",
 		"aliases": "autistic",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
@@ -164,7 +179,8 @@
 		"name_en": "XXXXXX",
 		"name_cn": "强迫症",
 		"aliases": "eggpain",
-		"description": "",
+		"description_en": "",
+		"description_cn": "",
 		"website": "",
 		"twitter": "",
 		"img_url": ""
