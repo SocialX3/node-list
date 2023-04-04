@@ -1,0 +1,62 @@
+[
+	{
+		"node_id": 1999000000,
+		"name_en": "XXXXXX",
+		"name_cn": "无要点",
+		"aliases": "pointless",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1999000001,
+		"name_en": "XXXXXX",
+		"name_cn": "水",
+		"aliases": "flood",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1999000002,
+		"name_en": "XXXXXX",
+		"name_cn": "水深火热",
+		"aliases": "flamewar",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1999000003,
+		"name_en": "XXXXXX",
+		"name_cn": "Social",
+		"aliases": "",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1999000004,
+		"name_en": "XXXXXX",
+		"name_cn": "新手求助",
+		"aliases": "newbie",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1999000005,
+		"name_en": "XXXXXX",
+		"name_cn": "请不要再发这样的文章",
+		"aliases": "ohno",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	}
+]

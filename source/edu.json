@@ -1,0 +1,32 @@
+[
+	{
+		"node_id": 1002000000,
+		"name_en": "XXXXXX",
+		"name_cn": "教育",
+		"aliases": "edu",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1002000001,
+		"name_en": "XXXXXX",
+		"name_cn": "大学",
+		"aliases": "u",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1002000002,
+		"name_en": "XXXXXX",
+		"name_cn": "北京大学",
+		"aliases": "pku",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	}
+]

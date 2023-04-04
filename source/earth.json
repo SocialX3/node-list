@@ -1,0 +1,652 @@
+[
+	{
+		"node_id": 1007000000,
+		"name_en": "Earth",
+		"name_cn": "地球",
+		"aliases": "utc,earth",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000001,
+		"name_en": "Japan",
+		"name_cn": "日本",
+		"aliases": "japan,jp",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000002,
+		"name_en": "U.S.",
+		"name_cn": "美国",
+		"aliases": "us",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000003,
+		"name_en": "Canada",
+		"name_cn": "加拿大",
+		"aliases": "canada,ca",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000004,
+		"name_en": "Singapore",
+		"name_cn": "新加坡",
+		"aliases": "sg,singapore",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000005,
+		"name_en": "China",
+		"name_cn": "中国",
+		"aliases": "cn",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000006,
+		"name_en": "Germany",
+		"name_cn": "德国",
+		"aliases": "de",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000007,
+		"name_en": "Iceland",
+		"name_cn": "冰岛",
+		"aliases": "iceland",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000008,
+		"name_en": "South Korea",
+		"name_cn": "韩国",
+		"aliases": "kr",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000009,
+		"name_en": "Mexico",
+		"name_cn": "墨西哥",
+		"aliases": "mx",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000010,
+		"name_en": "Beijing",
+		"name_cn": "北京",
+		"aliases": "beijing",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000011,
+		"name_en": "Shanghai",
+		"name_cn": "上海",
+		"aliases": "pvg,shanghai",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000012,
+		"name_en": "Shenzhen",
+		"name_cn": "深圳",
+		"aliases": "shenzhen",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000013,
+		"name_en": "Hangzhou",
+		"name_cn": "杭州",
+		"aliases": "hangzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000014,
+		"name_en": "Chengdu",
+		"name_cn": "成都",
+		"aliases": "chengdu",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000015,
+		"name_en": "Guangzhou",
+		"name_cn": "广州",
+		"aliases": "guangzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000016,
+		"name_en": "Wuhan",
+		"name_cn": "武汉",
+		"aliases": "wuhan",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000017,
+		"name_en": "Nanjing",
+		"name_cn": "南京",
+		"aliases": "nanjing",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000018,
+		"name_en": "Xian",
+		"name_cn": "西安",
+		"aliases": "xian",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000019,
+		"name_en": "changsha",
+		"name_cn": "长沙",
+		"aliases": "changsha",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000020,
+		"name_en": "chongqing",
+		"name_cn": "重庆",
+		"aliases": "chongqing",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000021,
+		"name_en": "kunming",
+		"name_cn": "昆明",
+		"aliases": "kunming",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000022,
+		"name_en": "suzhou",
+		"name_cn": "苏州",
+		"aliases": "suzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000023,
+		"name_en": "xiamen",
+		"name_cn": "厦门",
+		"aliases": "xiamen",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000024,
+		"name_en": "tianjin",
+		"name_cn": "天津",
+		"aliases": "tianjin",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000025,
+		"name_en": "qingdao",
+		"name_cn": "青岛",
+		"aliases": "qingdao",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000026,
+		"name_en": "zhengzhou",
+		"name_cn": "郑州",
+		"aliases": "zhengzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000027,
+		"name_en": "hongkong",
+		"name_cn": "香港",
+		"aliases": "hongkong",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000028,
+		"name_en": "dalian",
+		"name_cn": "大连",
+		"aliases": "dalian",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000029,
+		"name_en": "jinan",
+		"name_cn": "济南",
+		"aliases": "jinan",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000030,
+		"name_en": "fuzhou",
+		"name_cn": "福州",
+		"aliases": "fuzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000031,
+		"name_en": "wuxi",
+		"name_cn": "无锡",
+		"aliases": "wuxi",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000032,
+		"name_en": "zhuhai",
+		"name_cn": "珠海",
+		"aliases": "zhuhai",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000033,
+		"name_en": "changchun",
+		"name_cn": "长春",
+		"aliases": "changchun",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000034,
+		"name_en": "guiyang",
+		"name_cn": "贵阳",
+		"aliases": "guiyang",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000035,
+		"name_en": "tengzhou",
+		"name_cn": "滕州",
+		"aliases": "tengzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000036,
+		"name_en": "macau",
+		"name_cn": "澳门",
+		"aliases": "macau",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000037,
+		"name_en": "harbin",
+		"name_cn": "哈尔滨",
+		"aliases": "harbin",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000038,
+		"name_en": "guilin",
+		"name_cn": "桂林",
+		"aliases": "guilin",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000039,
+		"name_en": "nanchang",
+		"name_cn": "南昌",
+		"aliases": "nanchang",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000040,
+		"name_en": "lanzhou",
+		"name_cn": "兰州",
+		"aliases": "lanzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000041,
+		"name_en": "sanya",
+		"name_cn": "三亚",
+		"aliases": "sanya",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000042,
+		"name_en": "yangzhou",
+		"name_cn": "扬州",
+		"aliases": "yangzhou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000043,
+		"name_en": "baoding",
+		"name_cn": "保定",
+		"aliases": "baoding",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000044,
+		"name_en": "hohhot",
+		"name_cn": "呼和浩特",
+		"aliases": "hohhot",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000045,
+		"name_en": "haikou",
+		"name_cn": "海口",
+		"aliases": "haikou",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000046,
+		"name_en": "lijiang",
+		"name_cn": "丽江",
+		"aliases": "lijiang",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000047,
+		"name_en": "xinyu",
+		"name_cn": "新余",
+		"aliases": "xinyu",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000048,
+		"name_en": "yueyang",
+		"name_cn": "岳阳",
+		"aliases": "yueyang",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000049,
+		"name_en": "dali",
+		"name_cn": "大理",
+		"aliases": "dali",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000050,
+		"name_en": "zunyi",
+		"name_cn": "遵义",
+		"aliases": "zunyi",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000051,
+		"name_en": "xining",
+		"name_cn": "西宁",
+		"aliases": "xining",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000052,
+		"name_en": "tongren",
+		"name_cn": "铜仁",
+		"aliases": "tongren",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000053,
+		"name_en": "daqing",
+		"name_cn": "大庆",
+		"aliases": "daqing",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000054,
+		"name_en": "tokyo",
+		"name_cn": "东京",
+		"aliases": "hnd,tokyo",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000055,
+		"name_en": "New York",
+		"name_cn": "纽约",
+		"aliases": "ny,jfk,nyc",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000056,
+		"name_en": "Los Angeles",
+		"name_cn": "洛杉矶",
+		"aliases": "lax,la",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000057,
+		"name_en": "California",
+		"name_cn": "加利福尼亚",
+		"aliases": "california",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000058,
+		"name_en": "Europe",
+		"name_cn": "欧洲",
+		"aliases": "europe",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000059,
+		"name_en": "U.K.",
+		"name_cn": "英国",
+		"aliases": "gb,uk",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000060,
+		"name_en": "ningbo",
+		"name_cn": "宁波",
+		"aliases": "ningbo",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000061,
+		"name_en": "shenyang",
+		"name_cn": "沈阳",
+		"aliases": "shenyang",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000062,
+		"name_en": "Taiwan",
+		"name_cn": "台湾",
+		"aliases": "tw",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000063,
+		"name_en": "France",
+		"name_cn": "法国",
+		"aliases": "france",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1007000064,
+		"name_en": "Sweden",
+		"name_cn": "瑞典",
+		"aliases": "se",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	}
+]

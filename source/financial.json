@@ -1,0 +1,32 @@
+[
+	{
+		"node_id": 1005000000,
+		"name_en": "XXXXXX",
+		"name_cn": "理财",
+		"aliases": "financial",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1005000001,
+		"name_en": "XXXXXX",
+		"name_cn": "外汇交易",
+		"aliases": "forex",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	},
+	{
+		"node_id": 1005000002,
+		"name_en": "XXXXXX",
+		"name_cn": "天使投资",
+		"aliases": "angel",
+		"description": "",
+		"website": "",
+		"twitter": "",
+		"img_url": ""
+	}
+]
